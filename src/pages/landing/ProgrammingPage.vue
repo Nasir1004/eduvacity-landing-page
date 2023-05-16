@@ -960,7 +960,7 @@
                 personalize teaching methods. They give you a lot of support,
                 too, in both the form of documents that are easy to follow as
                 well as live instructors who are willing to answer any questions
-                you might have. Highly recommend!
+                you might have. Highly recommend
               </div>
               <div class="tw-flex tw-justify-between tw-mx-4 tw-pb-6">
                 <div class="tw-font-semibold">Product desingner</div>
